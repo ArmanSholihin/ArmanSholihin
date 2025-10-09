@@ -1,5 +1,5 @@
 # 👋 Hello world, I'm Arman Sholihin
-![Arman Sholihin](img\github-header-banner.png)
+![ArmanSholihin](img\github-header-banner.png)
 💻Fresh Graduate in Informatics Engineering | Backend Developer | Laravel | API Development | Android Integration
 💬 I enjoy turning ideas into Android apps powered by Laravel APIs.
 🌱 Always learning, always coding.
@@ -74,7 +74,6 @@
 ### ⚡ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanSholihin&layout=compact&theme=tokyonight)
 
----
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArmanSholihin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
