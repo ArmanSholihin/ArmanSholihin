@@ -89,7 +89,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArmanSholihin/ArmanSholihin/output/pacman-contribution-graph.svg">
 </picture>
 
-###
----
-
-⭐ *"Code with logic, design with empathy — build systems that make an impact."*
+###  
