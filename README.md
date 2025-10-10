@@ -67,7 +67,7 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20Sholihin-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/arman-sholihin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20Sholihin-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/arman-sholihin)  
 [![Email](https://img.shields.io/badge/Email-armansholihin%40gmail.com-red?style=flat-square&logo=gmail)](mailto:armanshlhn@gmail.com)
 
 ---
