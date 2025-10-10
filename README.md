@@ -2,7 +2,7 @@
 ![ArmanSholihin](img/github-header-banner1.png)  
 
 💻 Fresh Graduate in Informatics Engineering | Backend Developer | Laravel | API Development | Android Integration  
-💬 I enjoy turning ideas into Android apps powered by Laravel APIs.  
+💬 I enjoy turning ideas into websites and Android app backends powered by Laravel APIs.   
 🌱 Always learning, always coding.  
 
 ---
@@ -72,21 +72,70 @@
 
 ---
 
-### ⚡ GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanSholihin&layout=compact&theme=tokyonight)
+## 📊 Profile Statistics
 
-###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArmanSholihin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ArmanSholihin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+![](https://github-readme-stats.vercel.app/api?username=ArmanSholihin&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanSholihin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&border_radius=20&hide_border=false&order=2" alt="languages graph" />
+
+<br>
+
 </div>
 
-###
+---
+
+### 💳 Github Profile Summary Card
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanSholihin&theme=github_dark)
+
+</div>
+
+---
+
+### ⏱ Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmanSholihin&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 📈 Activity Graph
+
+![ArmanSholihin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArmanSholihin&theme=react-dark)
+
+<br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArmanSholihin/ArmanSholihin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" height="200" srcset="https://raw.githubusercontent.com/ArmanSholihin/ArmanSholihin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArmanSholihin/ArmanSholihin/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArmanSholihin/ArmanSholihin/output/pacman-contribution-graph.svg">
 </picture>
 
-###  
+---
+
+### 📊 Most Used Language
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ArmanSholihin&show_icons=true&locale=en&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 🏆 Profile Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArmanSholihin&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
