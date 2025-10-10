@@ -44,7 +44,7 @@
 #### 🧬 **Viume**
 > AI-powered website for cervical cancer cell detection.  
 > - **Role:** Fullstack Web Developer  
-> - **Tech:** HTML, CSS, JS, Bootstrap, Python (Google Colab), PostgreSQL/MySQL  
+> - **Tech:** HTML, CSS, JS, Bootstrap, Python (Google Colab), MySQL  
 > - **Description:** Integrated AI model predictions into web systems to analyze scanned cell images and detect abnormal cell patterns.  
 
 ---
@@ -67,8 +67,8 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20Sholihin-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/arman-sholihin)  
-[![Email](https://img.shields.io/badge/Email-armansholihin%40gmail.com-red?style=flat-square&logo=gmail)](mailto:armanshlhn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20Sholihin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arman-sholihin)  
+[![Gmail](https://img.shields.io/badge/Gmail-armansholihin%40gmail.com-red?style=flat-square&logo=gmail)](mailto:armansholihin@gmail.com)  
 
 ---
 
