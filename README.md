@@ -26,26 +26,26 @@
 
 ---
 
-### 💼 Featured Projects
+### 💼 Featured Projects  
 
-#### 📱 **Qolami 3.0**
+#### 📱 [**Qolami 3.0**](https://github.com/ArmanSholihin/qolami-lughatech-be) 
 > Android-based learning application for reading Hijaiyah letters.  
 > - **Role:** Backend Developer  
-> - **Tech:** HTML, CSS, JS, Laravel 11, PostgreSQL, Laragon
+> - **Tech:** HTML, CSS, JS, Laravel 11, PostgreSQL, Laragon  
 > - **Description:** Developed the backend API system to manage multimedia-based learning modules (video, audio, image).  
 > - *Undergraduate Thesis Project*  
 
-#### 💸 **Satuniat**
+#### 💸 [**Satu Niat**](https://github.com/MSIB-6-NCI/Project-Donasi-SIB6)
 > Donation website built during MSIB program.  
 > - **Role:** Fullstack Developer  
 > - **Tech:** HTML, CSS, JS, Laravel 11, PHP, MySQL, XAMPP  
 > - **Description:** Built a full donation management platform — from authentication, data handling, to backend integration.  
 
-#### 🧬 **Viume**
+#### 🧬 [**Viume**](https://github.com/ArmanSholihin/viumefinal)
 > AI-powered website for cervical cancer cell detection.  
 > - **Role:** Fullstack Web Developer  
 > - **Tech:** HTML, CSS, JS, Bootstrap, Python (Google Colab), MySQL  
-> - **Description:** Integrated AI model predictions into web systems to analyze scanned cell images and detect abnormal cell patterns.  
+> - **Description:** Integrated AI model predictions into web systems to analyze scanned cell images and detect abnormal cell patterns. 
 
 ---
 
