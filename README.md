@@ -1,7 +1,5 @@
 # 👋 Hello world, I'm Arman Sholihin
-![ArmanSholihin](img/github-header-banner1.png)
-
----
+![ArmanSholihin](img/github-header-banner1.png)  
 
 💻 Fresh Graduate in Informatics Engineering | Backend Developer | Laravel | API Development | Android Integration  
 💬 I enjoy turning ideas into Android apps powered by Laravel APIs.  
