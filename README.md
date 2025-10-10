@@ -86,8 +86,8 @@
 - Backend Development with Laravel  
 - RESTful API & JSON Data Integration  
 - Database Design & Optimization (MySQL, PostgreSQL, JSON)  
-- Fullstack Web Development (PHP + JS)  
-- AI Integration with Web Apps (Python + Laravel)  
+- Fullstack Web Development (PHP, HTML, CSS, JS)  
+- AI Integration with Web Apps (Python + Bootstrap)  
 
 ---
 
