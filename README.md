@@ -32,7 +32,7 @@
 > Android-based learning application for reading Hijaiyah letters.
 
 - 🧩 **Role:** Backend Developer  
-- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Laravel 11, PostgreSQL, Laragon  
+- 🛠️ **Tech Stack:** Kotlin, PHP, Laravel 11, PostgreSQL, Laragon  
 - 🧾 **Description:** Developed the backend API system to manage multimedia-based learning modules (video, audio, image).  
 - 🎓 *Undergraduate Thesis Project*
 
