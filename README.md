@@ -128,9 +128,7 @@
 ### ⏱️ Streak Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app?user=ArmanSholihin&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&cache_bust=20251016" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArmanSholihin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
