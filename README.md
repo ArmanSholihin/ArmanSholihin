@@ -127,7 +127,11 @@
 
 ### ⏱️ Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArmanSholihin&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&cache_bust=3)](https://git.io/streak-stats)  
+<p align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=ArmanSholihin&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&cache_bust=20251016)](https://git.io/streak-stats)  
+  
+</p>   
 
 ---
 
