@@ -126,11 +126,8 @@
 ---
 
 ### ⏱️ Streak Stats
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArmanSholihin&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
