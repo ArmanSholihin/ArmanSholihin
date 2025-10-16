@@ -127,7 +127,7 @@
 
 ### ⏱️ Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArmanSholihin&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmanSholihin&theme=tokyonight" alt="GitHub Streak" /></a>
 
 ---
 
